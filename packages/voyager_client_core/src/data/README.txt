@@ -1,0 +1,4 @@
+- Contains the data for the application provided via the repositories
+- Contains the data and implementation used in the application's unit tests
+- Contains a set of data adapters responsible for mapping data between the Domain and the Network (i.e. http and socket)
+- Defines the data structures used to send and receive via the network (i.e. http and socket)

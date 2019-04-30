@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df10bfc2-fb63-43fa-a3e1-b64c660b87a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.build.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-social-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-social-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-social-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-social-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-social-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/authen-bg-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/authen-bg-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/authen-bg-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/authen-bg-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/authen-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bg-iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/btn-apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/btn-google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/btn-play-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/btn-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/comm-about-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/community-slider-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/community-slider-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/community-slider-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/community-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/community-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/community-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hero-video-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/how-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-arrow-back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-arrow-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-arrow-next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-arrow-previous.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-event.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-facebook-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-fb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-gg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-linkedin-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-location-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-location-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-pinterest.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-share-copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-share-email.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-share-facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-share-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/icon-vimeo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/intro-thumb-1-DEPRECATED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/intro-thumb-2-DEPRECATED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/intro1-thumb-DEPRECATED2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/intro1-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/intro2-thumb-DEPRECATED2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/intro2-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/loaders/circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo-lg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/media-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/media-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/media-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/partners/logo-apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/partners/logo-design-reality.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/partners/logo-google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/partners/logo-microsoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/placeholder-thumb-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/placeholder-thumb-square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/placeholder-thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/qr-code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonials-bg-DEPRECATED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonials-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/testimonies/mark_little.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video-thumb-bg-DEPRECATED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video1-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video2-thumb-DEPRECATED.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video2-thumb-DEPRECATED2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video2-thumb-DEPRECATED3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/video2-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/geolocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/videos/click_v4.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/arr-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-1_old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-2_old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-4_old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-5_old.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-anonymous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/ava-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/bg-dots-xs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/bg-dots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/bg-guide-xs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/bg-guide.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/bg-video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/click-logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/click-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/content-video-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-concert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-meetup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-party.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-social.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/event-tooltip.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/favicon-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/favicon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/favicon-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/favicon-62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-apple.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-arr-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-football.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-hammer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-quote-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-quote-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/icon-wink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/location-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/location-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/location-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-c.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-r.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-r.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo-2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/qr-code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/qr-code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/thumb-video-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/thumb-video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/images/thumb-video_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/scripts/TweenMax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/scripts/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/scripts/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/styles/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/styles/fontawesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/styles/ionicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/styles/ionicons.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/styles/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_prod.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/_internal/ddc_sdk.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/_internal/strong.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/amd/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/amd/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/common/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/common/run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/es6/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/kernel/amd/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/kernel/amd/require.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/kernel/common/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/kernel/common/run.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/kernel/es6/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/kernel/legacy/dart_library.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/kernel/legacy/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/legacy/dart_library.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/legacy/dart_sdk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/web/dart_stack_trace_mapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/$sdk/dev_compiler/web/ddc_web_compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/core/blocs/category/category_event" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/core/http/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/core/interfaces/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/core/models/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/shared/animations/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/shared/components/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/shared/constants/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/shared/directives/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/shared/pipes/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/shared/sandbox/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/app/shared/utility/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/VoyagerWeb/src/enviroments/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/analyzer/src/summary/format.fbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular/src/di/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/app_layout/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/app_layout/g3doc/simple_app_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/css/mdc_web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/material_card/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/material_datepicker/proto/date.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/material_datepicker/proto/date_range.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/material_input/material_auto_suggest_input.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/material_select/material_dropdown_select.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/simple_html/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/src/material_datepicker/closedhand.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/angular_components/src/material_datepicker/openhand.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_overflow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap_sass/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_modules/src/analysis_options.default.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_runner/src/server/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_runner/src/server/build_updates_client/hot_reload_client.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_runner/src/server/build_updates_client/live_reload_client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_runner/src/server/graph_viz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_runner/src/server/graph_viz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_runner/src/server/graph_viz_main.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/build_web_compilers/src/dev_compiler_stack_trace/stack_trace_mapper.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/css/font-awesome.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/font_awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/TESTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/builder/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/diagnostics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/dill/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/kernel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/parser/parser.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/front_end/src/fasta/source/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ar_DZ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ar_EG.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/br.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/chr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/cy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/de_AT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/de_CH.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_AU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_CA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_GB.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_IE.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_IN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_ISO.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_MY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_SG.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/en_ZA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/es_419.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/es_ES.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/es_MX.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/es_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/fil.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/fr_CA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/fr_CH.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ga.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/gsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/haw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/he.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/id.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/it_CH.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/iw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ky.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ln.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/mo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/mt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/no.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/no_NO.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/or.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/pa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/pt_BR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/pt_PT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sr_Latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/zh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/zh_HK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/patterns/zu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ar_DZ.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ar_EG.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/bg.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/br.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/chr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/cy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/de_AT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/de_CH.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/el.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_AU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_CA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_GB.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_IE.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_IN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_ISO.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_MY.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_SG.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/en_ZA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/es_419.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/es_ES.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/es_MX.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/es_US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/et.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/eu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/fil.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/fr_CA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/fr_CH.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ga.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/gsw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/haw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/he.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/hy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/id.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/in.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/it_CH.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/iw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ka.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ky.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ln.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/mk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ml.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/mr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/mt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/my.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/no.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/no_NO.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/or.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/pa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/pt_BR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/pt_PT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/sr_Latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/te.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/vi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/zh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/zh_HK.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/intl/src/data/dates/symbols/zu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/kernel/binary/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/kernel/target/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/kernel/text/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/all.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/button/_button_group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/carousel/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/datepicker/_date_picker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/dropdown/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/pagination/_pager.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/pagination/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/popover/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/progress/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/table/_table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/tabsx/_tabsx.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/tooltip/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/components/typeahead/_typeahead.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/svg/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/svg/down-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/svg/right-chevron.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ng_bootstrap/svg/svg-defs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/node_preamble/preamble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/node_preamble/preamble.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/package_resolver/src/test_package_config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/pedantic/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/test/dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/test/src/runner/browser/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/test/src/runner/browser/static/host.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/test/src/runner/browser/static/host.dart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/test/src/runner/browser/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/voyager_client_core/src/data/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/voyager_client_core/src/data/mock/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/voyager_client_core/src/data/repositories/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/voyager_client_core/src/domain/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles_dark.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/thienlee.github.io.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thienlee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thienlee.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thienlee.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thienlee.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df10bfc2-fb63-43fa-a3e1-b64c660b87a7" name="Default Changelist" comment="" />
+      <created>1556603769456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556603769456</updated>
+      <workItem from="1556603771154" duration="931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="931000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
