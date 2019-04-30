@@ -6632,7 +6632,7 @@ d7:function d7(){},
 ib:function ib(){var _=this
 _.b=_.x=_.f=_.e=_.c=null},
 qd:function(a,b,c){var u=J.afD(new self.jQuery(c))
-J.afg(new self.jQuery("html"),{scrollTop:J.bm(J.xD(u),b)},a)},
+if(u!=null)J.afg(new self.jQuery("html"),{scrollTop:J.bm(J.xD(u),b)},a)},
 amW:function(a){var u={func:1,ret:[P.e,P.b,,],args:[[Z.b0,,]]}
 if(!!J.I(a).$ib1)return H.a84(a,u)
 else return H.a84(a.gdF(),u)},
@@ -25723,130 +25723,131 @@ s.setAttribute("hideHeader","")
 t=this.c
 r=D.GJ(s,H.a(t.w(C.j,this.a.Q),"$iaX"),this.r.a.b,H.a(t.u(C.ah,this.a.Q,null),"$idq"))
 this.x=r
-r=U.bw(this,1)
-this.y=r
-q=r.e
-q.setAttribute("autoFocus","")
-q.className="btn-close primary"
-q.setAttribute("icon","")
-r=H.a(t.w(C.j,this.a.Q),"$iaX")
-p=H.a(t.u(C.ah,this.a.Q,null),"$idq")
-o=H.a(t.u(C.aK,this.a.Q,null),"$ijB")
-this.z=new E.ke(new R.aG(!0),null,r,p,o,q)
+q=document
+p=q.createElement("div")
+p.className="com-details-heading"
+o=S.j(q,"h2",p)
+o.className="heading heading-3"
+r=q.createTextNode("")
+this.S=r
+o.appendChild(r)
+n=S.B(q,p)
+n.className="row align-items-center justify-content-between"
+m=S.B(q,n)
+m.className="col"
+l=S.B(q,m)
+l.className="desc desc-location"
+k=S.j(q,"img",S.b5(q,l))
+k.setAttribute("alt","Icon Location")
+k.setAttribute("src","assets/images/icon-location.svg")
+l.appendChild(q.createTextNode(" "))
+j=S.b5(q,l)
+j.className="copy copy-4"
+r=q.createTextNode("")
+this.P=r
+j.appendChild(r)
+r=$.av()
+i=H.a(r.cloneNode(!1),"$iP")
+m.appendChild(i)
+h=new V.J(12,5,this,i)
+this.y=h
+this.z=new K.a5(new D.Q(h,B.alR()),h)
+n.appendChild(q.createTextNode(" "))
+n.appendChild(q.createTextNode(" "))
+n.appendChild(q.createTextNode(" "))
+h=U.bw(this,16)
+this.Q=h
+g=h.e
+p.appendChild(g)
+g.setAttribute("autoFocus","")
+g.className="btn-close primary"
+g.setAttribute("icon","")
+h=H.a(t.w(C.j,this.a.Q),"$iaX")
+f=H.a(t.u(C.ah,this.a.Q,null),"$idq")
+e=H.a(t.u(C.aK,this.a.Q,null),"$ijB")
+this.ch=new E.ke(new R.aG(!0),null,h,f,e,g)
 t=F.bq(H.Z(t.u(C.q,this.a.Q,null)))
-this.Q=t
-this.ch=B.bt(q,t,this.y.a.b,null)
-t=M.ef(this,2)
 this.cx=t
-n=t.e
-n.className="icon-close"
-n.setAttribute("icon","close")
-t=new Y.cO(n)
-this.cy=t
-this.cx.E(0,t,[])
-this.y.E(0,this.ch,[H.l([n],[W.z])])
-m=document
-l=m.createElement("div")
-l.className="com-details-heading"
-k=S.j(m,"h2",l)
-k.className="heading heading-3"
-t=m.createTextNode("")
-this.S=t
-k.appendChild(t)
-j=S.B(m,l)
-j.className="row align-items-center justify-content-between"
-i=S.B(m,j)
-i.className="col"
-h=S.B(m,i)
-h.className="desc desc-location"
-g=S.j(m,"img",S.b5(m,h))
-g.setAttribute("alt","Icon Location")
-g.setAttribute("src","assets/images/icon-location.svg")
-h.appendChild(m.createTextNode(" "))
-f=S.b5(m,h)
-f.className="copy copy-4"
-t=m.createTextNode("")
-this.P=t
-f.appendChild(t)
-t=$.av()
-e=H.a(t.cloneNode(!1),"$iP")
-i.appendChild(e)
-r=new V.J(14,7,this,e)
-this.db=r
-this.dx=new K.a5(new D.Q(r,B.alR()),r)
-d=S.B(m,j)
-d.className="col text-right"
-d.appendChild(m.createTextNode(" "))
-c=m.createElement("div")
+this.cy=B.bt(g,t,this.Q.a.b,null)
+t=M.ef(this,17)
+this.db=t
+d=t.e
+d.className="icon-close"
+d.setAttribute("icon","close")
+t=new Y.cO(d)
+this.dx=t
+this.db.E(0,t,[])
+this.Q.E(0,this.cy,[H.l([d],[W.z])])
+c=q.createElement("div")
 c.className="com-details-content"
-b=S.j(m,"h3",c)
+b=S.j(q,"h3",c)
 b.className="content-heading"
-b.appendChild(m.createTextNode("About"))
-a=S.j(m,"p",c)
+b.appendChild(q.createTextNode("About"))
+a=S.j(q,"p",c)
 a.className="copy copy-5 copy-about"
-r=m.createTextNode("")
-this.Y=r
-a.appendChild(r)
-a0=S.j(m,"h3",c)
+t=q.createTextNode("")
+this.Y=t
+a.appendChild(t)
+a0=S.j(q,"h3",c)
 a0.className="content-heading"
-a0.appendChild(m.createTextNode("Members"))
-a1=H.a(t.cloneNode(!1),"$iP")
+a0.appendChild(q.createTextNode("Members"))
+a1=H.a(r.cloneNode(!1),"$iP")
 c.appendChild(a1)
-r=new V.J(24,17,this,a1)
-this.dy=r
-this.fr=new K.a5(new D.Q(r,B.alX()),r)
-a2=H.a(t.cloneNode(!1),"$iP")
+t=new V.J(25,18,this,a1)
+this.dy=t
+this.fr=new K.a5(new D.Q(t,B.alX()),t)
+a2=H.a(r.cloneNode(!1),"$iP")
 c.appendChild(a2)
-r=new V.J(25,17,this,a2)
-this.fx=r
-this.fy=new K.a5(new D.Q(r,B.alY()),r)
-a3=S.j(m,"h3",c)
+t=new V.J(26,18,this,a2)
+this.fx=t
+this.fy=new K.a5(new D.Q(t,B.alY()),t)
+a3=S.j(q,"h3",c)
 a3.className="content-heading"
-r=m.createTextNode("")
-this.a2=r
-a3.appendChild(r)
-a4=H.a(t.cloneNode(!1),"$iP")
+t=q.createTextNode("")
+this.a2=t
+a3.appendChild(t)
+a4=H.a(r.cloneNode(!1),"$iP")
 c.appendChild(a4)
-r=new V.J(28,17,this,a4)
-this.go=r
-this.id=new K.a5(new D.Q(r,B.am_()),r)
-a5=H.a(t.cloneNode(!1),"$iP")
+t=new V.J(29,18,this,a4)
+this.go=t
+this.id=new K.a5(new D.Q(t,B.am_()),t)
+a5=H.a(r.cloneNode(!1),"$iP")
 c.appendChild(a5)
-r=new V.J(29,17,this,a5)
-this.k1=r
-this.k2=new K.a5(new D.Q(r,B.am0()),r)
-a6=S.j(m,"h3",c)
+t=new V.J(30,18,this,a5)
+this.k1=t
+this.k2=new K.a5(new D.Q(t,B.am0()),t)
+a6=S.j(q,"h3",c)
 a6.className="content-heading"
-a6.appendChild(m.createTextNode("COMMUNITY MEDIA"))
-a7=H.a(t.cloneNode(!1),"$iP")
+a6.appendChild(q.createTextNode("COMMUNITY MEDIA"))
+a7=H.a(r.cloneNode(!1),"$iP")
 c.appendChild(a7)
-r=new V.J(32,17,this,a7)
-this.k3=r
-this.k4=new K.a5(new D.Q(r,B.alT()),r)
-a8=S.B(m,c)
+t=new V.J(33,18,this,a7)
+this.k3=t
+this.k4=new K.a5(new D.Q(t,B.alT()),t)
+a8=S.B(q,c)
 a8.className="media-carousel"
-a9=S.j(m,"ul",a8)
+a9=S.j(q,"ul",a8)
 a9.setAttribute("carousel","")
 a9.className="carousel-wrapper"
-r=m.createElement("div")
-r.className="l-action"
-r.textContent="chevron_left"
-p=m.createElement("div")
-p.className="r-action"
-p.textContent="chevron_right"
-this.r1=new D.je(a9,r,p)
-b0=H.a(t.cloneNode(!1),"$iP")
+t=q.createElement("div")
+t.className="l-action"
+t.textContent="chevron_left"
+h=q.createElement("div")
+h.className="r-action"
+h.textContent="chevron_right"
+this.r1=new D.je(a9,t,h)
+b0=H.a(r.cloneNode(!1),"$iP")
 a9.appendChild(b0)
-t=new V.J(35,34,this,b0)
-this.r2=t
-this.rx=new R.cG(t,new D.Q(t,B.alW()))
-this.r.E(0,this.x,[C.d,H.l([q,l,c],[W.at]),C.d])
-t=this.ch.b
-b1=new P.a2(t,[H.d(t,0)]).L(this.V(J.afk(this.f),W.bp))
+r=new V.J(36,35,this,b0)
+this.r2=r
+this.rx=new R.cG(r,new D.Q(r,B.alW()))
+this.r.E(0,this.x,[C.d,H.l([p,c],[W.at]),C.d])
+r=this.cy.b
+b1=new P.a2(r,[H.d(r,0)]).L(this.V(J.afk(this.f),W.bp))
 J.a4(a9,"mouseover",this.V(this.r1.gjh(),W.H))
 this.a8(0,C.d,[b1])},
-ad:function(a,b,c){if(a===C.y&&1<=b&&b<=2)return this.Q
-if((a===C.z||a===C.n||a===C.k)&&1<=b&&b<=2)return this.ch
+ad:function(a,b,c){if(a===C.y&&16<=b&&b<=17)return this.cx
+if((a===C.z||a===C.n||a===C.k)&&16<=b&&b<=17)return this.cy
 return c},
 C:function(){var u,t,s,r,q,p,o,n,m,l
 u=this.f
@@ -25857,14 +25858,14 @@ s.r=!1
 s.x=!1
 r=!0}else r=!1
 if(r)this.r.a.sae(1)
-if(t)this.z.c=!0
-if(t)this.z.at()
-if(t){this.cy.sbL(0,"close")
-r=!0}else r=!1
-if(r)this.cx.a.sae(1)
-s=this.dx
+s=this.z
 q=u.gcC()
 s.sT((q==null?null:q.gmW()+q.gqZ()>0)===!0)
+if(t)this.ch.c=!0
+if(t)this.ch.at()
+if(t){this.dx.sbL(0,"close")
+r=!0}else r=!1
+if(r)this.db.a.sae(1)
 s=this.fr
 q=u.gcC()
 s.sT((q==null?null:q.gjd()>0)===!0)
@@ -25886,7 +25887,7 @@ p=s==null?null:s.r1
 s=this.y2
 if(s==null?p!=null:s!==p){this.rx.sbY(p)
 this.y2=p}this.rx.bX()
-this.db.J()
+this.y.J()
 this.dy.J()
 this.fx.J()
 this.go.J()
@@ -25894,7 +25895,6 @@ this.k1.J()
 this.k3.J()
 this.r2.J()
 this.x.mB()
-this.y.aj(t)
 o=u.gR(u)
 if(o==null)o=""
 s=this.ry
@@ -25904,7 +25904,8 @@ n=s==null?null:s.fx
 if(n==null)n=""
 s=this.x1
 if(s!==n){this.P.textContent=n
-this.x1=n}s=u.gcC()
+this.x1=n}this.Q.aj(t)
+s=u.gcC()
 m=s==null?null:s.dy
 if(m==null)m=""
 s=this.x2
@@ -25915,9 +25916,9 @@ l=Q.az(s)
 s=this.y1
 if(s!==l){this.a2.textContent=l
 this.y1=l}this.r.D()
-this.y.D()
-this.cx.D()},
-M:function(){this.db.I()
+this.Q.D()
+this.db.D()},
+M:function(){this.y.I()
 this.dy.I()
 this.fx.I()
 this.go.I()
@@ -25925,9 +25926,9 @@ this.k1.I()
 this.k3.I()
 this.r2.I()
 this.r.A()
-this.y.A()
-this.cx.A()
-this.z.an()
+this.Q.A()
+this.db.A()
+this.ch.an()
 this.r1.an()
 this.x.e.av()},
 $ap:function(){return[R.bj]}}
