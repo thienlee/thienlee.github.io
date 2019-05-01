@@ -2,7 +2,214 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df10bfc2-fb63-43fa-a3e1-b64c660b87a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.build.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/.build.manifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-black-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-italic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-medium-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/fonts/roboto-thin-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/arr-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-1_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-2_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-4_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-5_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-anonymous.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/ava-default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/bg-dots-xs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/bg-dots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/bg-guide-xs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/bg-guide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/bg-video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/click-logo-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/click-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/content-video-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-concert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-meetup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-party.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-social.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-thumb-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-thumb-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-thumb-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/event-tooltip.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/favicon-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/favicon-32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/favicon-48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/favicon-62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-android.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-arr-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-football.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-hammer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-home.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-message.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-pause.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-quote-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-quote-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/icon-wink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/location-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/location-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/location-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-c.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-r.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo-2-with-r.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo-2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/qr-code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/qr-code.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/thumb-video-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/thumb-video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/images/thumb-video_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/scripts/TweenMax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/scripts/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/scripts/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/scripts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/styles/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/styles/fontawesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/styles/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/styles/ionicons.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/styles/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/styles/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-black-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-italic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-medium-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clicksocialapp/webfonts/roboto-thin-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,12 +221,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="8" column="52784" selection-start-line="8" selection-start-column="52784" selection-end-line="8" selection-end-column="52784" />
+            <state relative-caret-position="3485">
+              <caret line="8" column="55863" selection-start-line="8" selection-start-column="55863" selection-end-line="8" selection-end-column="55863" />
             </state>
           </provider>
         </entry>
@@ -27,8 +234,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles_dark.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="8" column="52236" lean-forward="true" selection-start-line="8" selection-start-column="52236" selection-end-line="8" selection-end-column="52236" />
+            <state relative-caret-position="245">
+              <caret line="8" column="52936" selection-start-line="8" selection-start-column="52936" selection-end-line="8" selection-end-column="52936" />
             </state>
           </provider>
         </entry>
@@ -40,7 +247,9 @@
       <find>.com-details-heading</find>
       <find>.com-details-content</find>
       <find>%</find>
+      <find>p</find>
       <find>com-details-heading</find>
+      <find>body</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -49,8 +258,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/styles_dark.css" />
+        <option value="$PROJECT_DIR$/styles.css" />
       </list>
     </option>
   </component>
@@ -81,6 +290,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,12 +302,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -125,7 +335,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556603769456</updated>
-      <workItem from="1556603771154" duration="4514000" />
+      <workItem from="1556603771154" duration="13402000" />
+      <workItem from="1556678448214" duration="755000" />
+      <workItem from="1556679686156" duration="530000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1556605105398</created>
@@ -176,23 +388,137 @@
       <option name="project" value="LOCAL" />
       <updated>1556610410880</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first commit">
+      <created>1556611055132</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556611055132</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <created>1556613961983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556613961983</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first commit">
+      <created>1556614471137</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556614471137</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first commit">
+      <created>1556616652307</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556616652307</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first commit">
+      <created>1556616877475</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556616877475</updated>
+    </task>
+    <task id="LOCAL-00013" summary="first commit">
+      <created>1556617148918</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556617148918</updated>
+    </task>
+    <task id="LOCAL-00014" summary="first commit">
+      <created>1556617566250</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556617566250</updated>
+    </task>
+    <task id="LOCAL-00015" summary="first commit">
+      <created>1556619613338</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1556619613338</updated>
+    </task>
+    <task id="LOCAL-00016" summary="first commit">
+      <created>1556619967347</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556619967347</updated>
+    </task>
+    <task id="LOCAL-00017" summary="first commit">
+      <created>1556620073310</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1556620073310</updated>
+    </task>
+    <task id="LOCAL-00018" summary="first commit">
+      <created>1556620458301</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1556620458301</updated>
+    </task>
+    <task id="LOCAL-00019" summary="first commit">
+      <created>1556621753189</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556621753189</updated>
+    </task>
+    <task id="LOCAL-00020" summary="first commit">
+      <created>1556622439155</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556622439155</updated>
+    </task>
+    <task id="LOCAL-00021" summary="first commit">
+      <created>1556622893349</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1556622893349</updated>
+    </task>
+    <task id="LOCAL-00022" summary="first commit">
+      <created>1556623516978</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1556623516978</updated>
+    </task>
+    <task id="LOCAL-00023" summary="first commit">
+      <created>1556623984556</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1556623984556</updated>
+    </task>
+    <task id="LOCAL-00024" summary="first commit">
+      <created>1556624319852</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556624319852</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4514000" />
+    <option name="totallyTimeSpent" value="14687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3285968" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -200,6 +526,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,17 +543,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clicksocialapp/index.html" />
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="8" column="52784" selection-start-line="8" selection-start-column="52784" selection-end-line="8" selection-end-column="52784" />
+        <state relative-caret-position="3485">
+          <caret line="8" column="55863" selection-start-line="8" selection-start-column="55863" selection-end-line="8" selection-end-column="55863" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles_dark.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="8" column="52236" lean-forward="true" selection-start-line="8" selection-start-column="52236" selection-end-line="8" selection-end-column="52236" />
+        <state relative-caret-position="245">
+          <caret line="8" column="52936" selection-start-line="8" selection-start-column="52936" selection-end-line="8" selection-end-column="52936" />
         </state>
       </provider>
     </entry>
